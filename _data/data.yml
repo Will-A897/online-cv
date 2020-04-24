@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: wda1999@gmail.com
     phone: 076 655 0533
-    linkedin: linkedin.com/in/william-agar-1b57521a7
+    linkedin: william-agar-1b57521a7
     github: Will-A897
 
 
@@ -23,17 +23,13 @@ sidebar:
         level: Native
 
       - idiom: Afrikaans
-        level: Intermediate
+        level: Basic
 
 
     interests:
-      - item: Story Driven Video Games
+      - item: Story Driven Video Games / Reading
 
-      - item: Reading
-
-      - item: Gyming
-        
-      - item: Cooking
+      - item: Gyming / Cooking
       
 education:
     - degree: BSc in Computer Science
