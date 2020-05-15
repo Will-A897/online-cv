@@ -22,10 +22,6 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: Afrikaans
-        level: Basic
-
-
     interests:
       - item: Video Games / Reading
 
@@ -63,6 +59,8 @@ skills:
       - name: LAMP Stack (Linux, Apache, MySQL, PHP)
       
       - name: Android Development
+      
+      - name: NodeJS
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
